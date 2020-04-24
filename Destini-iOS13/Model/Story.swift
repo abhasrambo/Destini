@@ -1,9 +1,9 @@
 //
-//  Sotry.swift
+//  Story.swift
 //  Destini-iOS13
 //
-//  Created by Angela Yu on 08/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Abhas Kumar on 08/08/2019.
+//  Copyright © 2019 Abhas. All rights reserved.
 //
 
 import Foundation
